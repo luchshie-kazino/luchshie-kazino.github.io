@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: luchshie-kazino.github.io
+Sitemap: https://luchshie-kazino.github.io/sitemap.xml
